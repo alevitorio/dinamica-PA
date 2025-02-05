@@ -18,11 +18,11 @@ Esta dinâmica tem como objetivo demonstrar a importância de **seguir um algori
 - Cada grupo será responsável por criar um algoritmo para organizar arquivos no computador. Eles devem escrever as etapas detalhadas de como realizar a tarefa no computador.
 
 ### 2️⃣ **Definição do Tema** (5 minutos)
-Cada grupo vai escolher e criar um algoritmo para a seguinte tarefa:
+Cada grupo vai escolher e criar um algoritmo para uma tarefa no computador:
 
 #### **Exemplo**: Organizar Arquivos no Computador
 
-**Exemplo de etapas**:
+**Etapas**:
 1. 🖥️ Abrir o Explorador de Arquivos.
 2. 📂 Criar subpastas "Documentos", "Imagens", "Músicas".
 3. 📁 Mover arquivos para as pastas apropriadas.
