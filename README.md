@@ -20,7 +20,7 @@ Esta dinâmica tem como objetivo demonstrar a importância de **seguir um algori
 ### 2️⃣ **Definição do Tema** (5 minutos)
 Cada grupo vai escolher e criar um algoritmo para a seguinte tarefa:
 
-#### **Tarefa**: Organizar Arquivos no Computador
+#### **Exemplo**: Organizar Arquivos no Computador
 
 **Exemplo de etapas**:
 1. 🖥️ Abrir o Explorador de Arquivos.
