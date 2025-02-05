@@ -9,8 +9,6 @@ Esta dinâmica tem como objetivo demonstrar a importância de **seguir um algori
 ### **Tema**: Organizar Arquivos no Computador
 
 #### Descrição do Processo:
-O objetivo é criar um algoritmo passo a passo para organizar arquivos em uma pasta específica do computador, criando subpastas, movendo arquivos, renomeando, excluindo arquivos desnecessários, e finalizando a tarefa de forma adequada.
-
 ---
 
 ## 🚀 Passo a Passo da Dinâmica
@@ -67,7 +65,4 @@ A dinâmica reforça a importância de criar algoritmos bem estruturados e claro
 
 Essa atividade também permite que os alunos pratiquem habilidades de **trabalho em grupo**, **pensamento lógico** e **documentação de processos**. Além disso, ao executar o algoritmo de outro grupo, eles conseguem entender melhor como escrever instruções que realmente podem ser seguidas por outra pessoa.
 
-## 🔓 Licença
-
-Esse material é disponibilizado sob a licença **MIT**.
 
